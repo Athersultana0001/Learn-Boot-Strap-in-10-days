@@ -1,5 +1,7 @@
 # Introduction to Bootstrap 🌐
 
+![Bootstrap | CSS | Grid | Example - Tech Blog](https://msatechnosoft.in/blog/wp-content/uploads/2018/06/bootstrap-image-MSA-Technosoft.jpg)
+
 ##  **Objectives:** 🎯
 By the end of Day 1, students should be able to understand the fundamentals of Bootstrap, set up Bootstrap in their projects, grasp the basic structure of a Bootstrap-powered webpage, and know where to find essential Bootstrap documentation.
 
@@ -26,6 +28,8 @@ By the end of Day 1, students should be able to understand the fundamentals of B
     -   Examples and Code Snippets: Learn how to use code examples to accelerate your learning.
 
 # 🤔 **What is Bootstrap?**
+
+![Bootstrap - Open Collective](https://images.opencollective.com/bootstrap/a892851/background.png)
 
 Bootstrap is an open-source front-end framework that simplifies web development by providing a collection of pre-built, responsive design components and a grid system. It was created by Twitter and is now maintained by a community of developers. Bootstrap is widely used in web development to create attractive, mobile-friendly, and consistent user interfaces. 🌐
 
@@ -70,6 +74,8 @@ In recent years, Bootstrap 5 has been released with even more improvements and a
 Understanding Bootstrap's history and evolution is crucial because it helps developers appreciate the framework's development philosophy and the reasons behind its widespread adoption. 🌍
 
 # 🛠️ Setting up Bootstrap
+
+![html & #css: #Bootstrap 3, el #manual oficial by @librosweb –  www.coudlain.com](https://coudlain.files.wordpress.com/2017/03/html-css-bootstrap-3-el-manual-oficial-by-librosweb.jpg?w=685)
 
 Setting up Bootstrap is the first step in unleashing its web development magic. In this section, we'll cover three exciting methods of incorporating Bootstrap into your projects: downloading Bootstrap, linking Bootstrap locally, and using Content Delivery Networks (CDNs).
 
@@ -133,6 +139,8 @@ Using a CDN is convenient because it ensures you always have access to the lates
 With Bootstrap successfully set up, you're now equipped to harness its power for creating stunning, responsive web designs. 🚀
 
 # 🌟 Basic Bootstrap Structure
+
+![10 Most Common Bootstrap Mistakes That Developers Make | Toptal®](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1146351/retina_300x120_cover-Refresh-BootstrapMistakes-Luke_Newsletter-de8e815f0eb7983dff8f613f811b248c-95acbfbc1baf42efcbb8b5050f978213.png)
 
 Bootstrap provides a robust foundation for building responsive web layouts. In this section, we'll delve into the core elements: the Container and Grid System, Responsive Design principles, and understanding the necessary CSS and JavaScript Dependencies.
 
@@ -199,6 +207,8 @@ Bootstrap also requires JavaScript for certain interactive components like modal
 With a strong grasp of Basic Bootstrap Structure, you're ready to create responsive and visually appealing web layouts. 🚀
 
 # 📚 Bootstrap Documentation
+
+![What's New in Bootstrap 5 - DEV Community](https://res.cloudinary.com/practicaldev/image/fetch/s--LTUFkuK5--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://imgur.com/Mj3H69v.png)
 
 Understanding how to navigate and utilize Bootstrap's extensive documentation is crucial for harnessing the full power of the framework.
 
