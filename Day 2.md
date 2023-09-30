@@ -17,6 +17,8 @@ Get ready to unlock the power of Bootstrap's grid system and take your web desig
 
 # Understanding the Grid System in Bootstrap 📐
 
+![Bootstrap Grid System | Complete Guide to Bootstrap Grid System](https://cdn.educba.com/academy/wp-content/uploads/2019/05/Bootstrap-Grid-System.jpg)
+
 In web design, a grid-based layout is like the backbone of your webpage. It's a systematic way of arranging content into rows and columns, which not only simplifies the design process but also ensures your website looks great on various screen sizes.
 
 ## Why Use a Grid System?
@@ -80,6 +82,8 @@ Understanding the grid system is a fundamental step in mastering Bootstrap, enab
 
 # Creating Responsive Layouts with Bootstrap 🌆
 
+![Top 8 reasons to get a responsive website | DeType Blog](https://www.detype.com/wp-content/uploads/2017/05/8-reasons-to-get-a-responsive-website-1000x675.jpg)
+
 One of Bootstrap's most significant strengths is its ability to create responsive layouts effortlessly. A responsive layout means that your web page adapts and looks fantastic on various devices and screen sizes, from small smartphones to large desktop monitors.
 
 ## How Bootstrap Achieves Responsiveness 🖥️
@@ -128,6 +132,7 @@ Creating responsive layouts with Bootstrap's grid system is a crucial skill for 
 In the next part of our journey, we'll dive deeper into Bootstrap's grid classes and breakpoints, giving you even more control over your responsive designs. Stay tuned! 🚀
 
 #  Grid Classes and Breakpoints in Bootstrap 🌟
+![XpertLab - Website Designing Company Junagadh,Website Development Company  Junagadh, Software Development Company Junagadh, Professional IT Project  Training Junagadh](https://xpertlab.com/wp-content/uploads/2019/09/bootstrap-grid-system.jpg)
 
 Bootstrap's grid classes and breakpoints are your tools to finely tune how your web layout behaves across different screen sizes. Understanding these essential concepts is key to achieving pixel-perfect responsiveness.
 
@@ -204,6 +209,7 @@ Mastering grid classes and breakpoints in Bootstrap is a valuable skill for crea
 In the next part of our Bootstrap journey, we'll explore column ordering, adding yet another layer of flexibility to your layouts. Stay tuned for more! 🚀
 
 # Column Ordering in Bootstrap 📏
+![Varying Column Heights in Bootstrap | by Carol Skelly | WDstack | Medium](https://miro.medium.com/v2/resize:fit:1400/1*grnKtH3Ev99jp_X8hrVfYw.png)
 
 Column ordering in Bootstrap allows you to change the order of columns within a row, providing unparalleled flexibility in how you present content on different screen sizes.
 
@@ -618,4 +624,3 @@ We delved deep into the heart of Bootstrap's responsiveness. Here's a quick summ
 
 
 As we wrap up Day 2, you've gained essential skills in crafting responsive web layouts with Bootstrap. Stay excited because, on Day 3, we'll dive into Bootstrap components, bringing interactivity and functionality to our web projects. 🚀
-
