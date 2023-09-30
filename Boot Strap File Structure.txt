@@ -1,0 +1,341 @@
+LEARN Boot Strap IN 10 DAYS
+
+Lesson1	-      Introduction to Bootstrap
+	- ElementA -concept1- What is Bootstrap
+		- elementB - Explanation of concept     - What is Bootstrap
+		- elementC - Example of concept		- What is Bootstrap
+		- elementD - Where it is used		- Applications of Bootstrap
+		- elementE - sample code		- related codes to Bootstrap
+		- elementF - image			- relevant images of Bootstrap
+		- elementG - summary			- summary of Bootstrap 
+		- elementH - interview questions	- knowledge check about the Bootstrap 
+	- ElementA - concept2 - Setting up Bootstrap
+		- elementB - Explanation of concept     - Setting up Bootstrap
+		- elementC - Example of concept		- Setting up Bootstrap
+		- elementD - Where it is used		- Applications of Setting up Bootstrap
+		- elementE - sample code		- codes of  Setting up Bootstrap
+		- elementF - image			- relevant images of Setting up Bootstrap
+		- elementG - summary			- summary of Setting up Bootstrap
+		- elementH - interview questions	- knowledge check about Setting up Bootstrap
+	- ElementA - concept3 	-  Basic Bootstrap structure
+		- elementB - Explanation of concept     - Basic Bootstrap structure
+		- elementC - Example of concept		- Basic Bootstrap structure
+		- elementD - Where it is used		- Applications of  Basic Bootstrap structure
+		- elementE - sample code		- code for Creating Basic Bootstrap structure
+		- elementF - image			- relevant images of Basic Bootstrap structure
+		- elementG - summary			- summary of Basic Bootstrap structure
+		- elementH - interview questions	- knowledge check about Basic Bootstrap structure
+	- ElementA - concept4 	- Bootstrap documentation
+		- elementB - Explanation of concept     - Bootstrap documentation
+		- elementC - Example of concept		- Bootstrap documentation
+		- elementD - Where it is used		- Applications of Bootstrap documentation
+		- elementE - sample code		- code for Bootstrap documentation
+		- elementF - image			- relevant images of Bootstrap documentation
+		- elementG - summary			- summary of Bootstrap documentation
+		- elementH - interview questions	- knowledge check about Bootstrap documentation
+
+Lesson2	-   Bootstrap Grid System
+	- ElementA - concept1 	-Understanding the grid system
+		- elementB - Explanation of concept     - Understanding the grid system
+		- elementC - Example of concept		- Understanding the grid system
+		- elementD - Where it is used		- Applications of Understanding the grid system
+		- elementE - sample code		- code for Understanding grid system
+		- elementF - image			- relevant images of Understanding the grid system
+		- elementG - summary			- summary of Understanding the grid system
+		- elementH - interview questions	- knowledge check about Understanding the grid system
+	- ElementA - concept2 - Creating responsive layouts
+		- elementB - Explanation of concept     - Creating responsive layouts
+		- elementC - Example of concept		- Creating responsive layouts
+		- elementD - Where it is used		- Applications of Creating responsive layouts
+		- elementE - sample code		- codes for Creating responsive layouts
+		- elementF - image			- relevant images of Creating responsive layouts
+		- elementG - summary			- summary of Creating responsive layouts
+		- elementH - interview questions	- knowledge check about Creating responsive layouts
+	- ElementA - concept3 	- Grid classes and breakpoints
+		- elementB - Explanation of concept     - Grid classes and breakpoints
+		- elementC - Example of concept		- Grid classes and breakpoints
+		- elementD - Where it is used		- Applications of Grid classes and breakpoints
+		- elementE - sample code		- code for Grid classes and breakpoints
+		- elementF - image			- relevant images of Grid classes and breakpoints
+		- elementG - summary			- summary of Grid classes and breakpoints
+		- elementH - interview questions	- knowledge check about Grid classes and breakpoints
+	- ElementA - concept4 	- Column ordering
+		- elementB - Explanation of concept     - Column ordering
+		- elementC - Example of concept		- Column ordering
+		- elementD - Where it is used		- Applications of Column ordering
+		- elementE - sample code		- code for Column ordering
+		- elementF - image			- relevant images of Column ordering
+		- elementG - summary			- summary of Column ordering
+		- elementH - interview questions	- knowledge check about Column ordering
+
+Lesson3	-   Bootstrap Components
+	- ElementA - concept1 	- Working with Bootstrap components
+		- elementB - Explanation of concept     - Working with Bootstrap components
+		- elementC - Example of concept		- Working with Bootstrap components
+		- elementD - Where it is used		- Applications of Working with Bootstrap components
+		- elementE - sample code		- codes for Working with Bootstrap components
+		- elementF - image			- relevant images of Working with Bootstrap components
+		- elementG - summary			- summary of Working with Bootstrap components
+		- elementH - interview questions	- knowledge check about Working with Bootstrap components
+	- ElementA - concept2 -  Navigation bars, buttons, and alerts
+		- elementB - Explanation of concept     - Navigation bars, buttons, and alerts
+		- elementC - Example of concept		- Navigation bars, buttons, and alerts
+		- elementD - Where it is used		- Applications of Navigation bars, buttons, and alerts
+		- elementE - sample code		- codes for Navigation bars, buttons, and alerts
+		- elementF - image			- relevant images of Navigation bars, buttons, and alerts
+		- elementG - summary			- summary of Navigation bars, buttons, and alerts
+		- elementH - interview questions	- knowledge check about Navigation bars, buttons, and alerts
+	- ElementA - concept3 	- Forms and input elements
+		- elementB - Explanation of concept     - Forms and input elements
+		- elementC - Example of concept		- Forms and input elements
+		- elementD - Where it is used		- Applications of Forms and input elements
+		- elementE - sample code		- Code for Forms and input elements
+		- elementF - image			- relevant images of Forms and input elements
+		- elementG - summary			- summary of Forms and input elements
+		- elementH - interview questions	- knowledge check about Forms and input elements
+	- ElementA - concept4 	- Bootstrap modals
+		- elementB - Explanation of concept     - Bootstrap modals
+		- elementC - Example of concept		- Bootstrap modals
+		- elementD - Where it is used		- Applications of Bootstrap modals
+		- elementE - sample code		- code for Bootstrap modals
+		- elementF - image			- relevant images of Bootstrap modals
+		- elementG - summary			- summary of Bootstrap modalss
+		- elementH - interview questions	- knowledge check about Bootstrap modals
+
+Lesson4	-  Bootstrap Typography
+	- ElementA - concept1 	- Styling text with Bootstrap
+		- elementB - Explanation of concept     - Styling text with Bootstrap
+		- elementC - Example of concept		- Styling text with Bootstrap
+		- elementD - Where it is used		- Applications of Styling text with Bootstrap
+		- elementE - sample code		- codes for Styling text with Bootstrap
+		- elementF - image			- relevant images of Styling text with Bootstrap
+		- elementG - summary			- summary of Styling text with Bootstrap
+		- elementH - interview questions	- knowledge check about Styling text with Bootstrap
+	- ElementA - concept2 -  Typography classes
+		- elementB - Explanation of concept     - Typography classes
+		- elementC - Example of concept		- Typography classes
+		- elementD - Where it is used		- Applications of Typography classes
+		- elementE - sample code		- codes for Typography classes
+		- elementF - image			- relevant images of Typography classes
+		- elementG - summary			- summary of Typography classes
+                - elementH - interview questions	- knowledge check about Typography classes
+	- ElementA - concept3 - Utility classes for text
+		- elementB - Explanation of concept     - Utility classes for text
+		- elementC - Example of concept		- Utility classes for text
+		- elementD - Where it is used		- Applications of Utility classes for text
+		- elementE - sample code		- codes for Utility classes for text
+		- elementF - image			- relevant images of Utility classes for text
+		- elementG - summary			- summary of Utility classes for text
+                - elementH - interview questions	- knowledge check about Utility classes for text
+        - ElementA - concept4 	- Customizing fonts
+		- elementB - Explanation of concept     - Customizing fonts
+		- elementC - Example of concept		- Customizing fonts
+		- elementD - Where it is used		- Applications of Customizing fonts
+		- elementE - sample code		- code for Customizing fonts
+		- elementF - image			- relevant images of Customizing fonts
+		- elementG - summary			- summary of Customizing fonts
+		- elementH - interview questions	- knowledge check about Customizing fonts
+Lesson5	-  Bootstrap Colors and Themes
+	- ElementA - concept1 	- Customizing colors and themes
+		- elementB - Explanation of concept     - Customizing colors and themes
+		- elementC - Example of concept		- Customizing colors and themes
+		- elementD - Where it is used		- codes for Customizing colors and themes
+		- elementF - image			- relevant images of Customizing colors and themes
+		- elementG - summary			- summary of Customizing colors and themes
+		- elementH - interview questions	- knowledge check about Customizing colors and themes
+	- ElementA - concept2 - Bootstrap color classes
+		- elementB - Explanation of concept     - Bootstrap color classes
+		- elementC - Example of concept		- Bootstrap color classes
+		- elementD - Where it is used		- Applications of Bootstrap color classes
+		- elementE - sample code		- codes for Bootstrap color classes
+		- elementF - image			- relevant images of Bootstrap color classes
+		- elementG - summary			- summary of Bootstrap color classes
+		- elementH - interview questions	- knowledge check about Bootstrap color classes
+	- ElementA - concept3 	- Creating custom themes
+		- elementB - Explanation of concept     - Creating custom themes
+		- elementC - Example of concept		- Creating custom themes
+		- elementD - Where it is used		- Applications of Creating custom themes
+		- elementE - sample code		- code for Creating custom themes
+		- elementF - image			- relevant images of Creating custom themes
+		- elementG - summary			- summary of Creating custom themes
+		- elementH - interview questions	- knowledge check about Creating custom themes
+	- ElementA - concept4 	- Bootstrap themes
+		- elementB - Explanation of concept     - Bootstrap themes
+		- elementC - Example of concept		- Bootstrap themes
+		- elementD - Where it is used		- Applications of Bootstrap themes
+		- elementE - sample code		- code for Bootstrap themes
+		- elementF - image			- relevant images of Bootstrap themes
+		- elementG - summary			- summary of Bootstrap themes
+		- elementH - interview questions	- knowledge check about Bootstrap themes
+
+
+Lesson6	-  Responsive Web Design with Bootstrap
+	- ElementA -   Creating responsive designs
+		- elementB - Explanation of concept     - Creating responsive designs
+		- elementC - Example of concept		- Creating responsive designs
+		- elementD - Where it is used		- Applications of Creating responsive designs
+		- elementE - sample code		- codes for Creating responsive designs
+		- elementF - image			- relevant images of Creating responsive designs
+		- elementG - summary			- summary of Creating responsive designs
+		- elementH - interview questions	- knowledge check about Creating responsive designs
+	- ElementA - concept2 -  Mobile-first approach
+		- elementB - Explanation of concept     - Mobile-first approach
+		- elementC - Example of concept		- Mobile-first approach
+		- elementD - Where it is used		- Applications of Mobile-first approach
+		- elementE - sample code		- codes for Mobile-first approach
+		- elementF - image			- relevant images of Mobile-first approach
+		- elementG - summary			- summary of Mobile-first approach
+		- elementH - interview questions	- knowledge check about Mobile-first approach
+	- ElementA - concept3 	- Responsive utilities
+		- elementB - Explanation of concept     - Responsive utilities
+		- elementC - Example of concept		- Responsive utilities
+		- elementD - Where it is used		- Applications of Responsive utilities
+		- elementE - sample code		- code for Responsive utilities
+		- elementF - image			- relevant images of Responsive utilities
+		- elementG - summary			- summary of Responsive utilities
+		- elementH - interview questions	- knowledge check about Responsive utilities
+	- ElementA - concept4 	- Responsive images
+		- elementB - Explanation of concept     - Responsive images
+		- elementC - Example of concept		- Responsive images
+		- elementD - Where it is used		- Applications of Responsive images
+		- elementE - sample code		- code for Responsive images
+		- elementF - image			- relevant images of Responsive images
+		- elementG - summary			- summary of Responsive images
+		- elementH - interview questions	- knowledge check about Responsive images
+
+Lesson7	-   Bootstrap Navigation Components
+	- ElementA - concept1 	- Navigation menus and bars
+		- elementB - Explanation of concept     - Navigation menus and bars
+		- elementC - Example of concept		- Navigation menus and bars
+		- elementD - Where it is used		- Applications of Navigation menus and bars
+		- elementE - sample code		- codes for Navigation menus and bars
+		- elementF - image			- relevant images of Navigation menus and bars
+		- elementG - summary			- summary of Navigation menus and bars
+		- elementH - interview questions	- knowledge check about Navigation menus and bars
+	- ElementA - concept2 - Dropdowns and navigation pills
+		- elementB - Explanation of concept     - Dropdowns and navigation pills
+		- elementC - Example of concept		- Dropdowns and navigation pills
+		- elementD - Where it is used		- Applications of Dropdowns and navigation pills
+		- elementE - sample code		- codes for Dropdowns and navigation pills
+		- elementF - image			- relevant images of Dropdowns and navigation pills
+		- elementG - summary			- summary of Dropdowns and navigation pills
+		- elementH - interview questions	- knowledge check about Dropdowns and navigation pills
+	- ElementA - concept3 	- Breadcrumbs and pagination
+		- elementB - Explanation of concept     - Breadcrumbs and pagination
+		- elementC - Example of concept		- Breadcrumbs and pagination
+		- elementD - Where it is used		- Applications of Breadcrumbs and pagination
+		- elementE - sample code		- code for Breadcrumbs and pagination
+		- elementF - image			- relevant images of Breadcrumbs and pagination
+		- elementG - summary			- summary of Breadcrumbs and pagination
+		- elementH - interview questions	- knowledge check about Breadcrumbs and pagination
+        - ElementA - concept4 	- Tabs and navigation
+		- elementB - Explanation of concept     - Tabs and navigation
+		- elementC - Example of concept		- Tabs and navigation
+		- elementD - Where it is used		- Applications of Tabs and navigation
+		- elementE - sample code		- code for Tabs and navigation
+		- elementF - image			- relevant images of Tabs and navigation
+		- elementG - summary			- summary of Tabs and navigation
+		- elementH - interview questions	- knowledge check about Tabs and navigation
+
+
+Lesson8	-  Bootstrap Layout and Alignment
+	- ElementA - concept1 	-  Bootstrap layout classes
+		- elementB - Explanation of concept     - Bootstrap layout classes
+		- elementC - Example of concept		- Bootstrap layout classes
+		- elementD - Where it is used		- Applications of Bootstrap layout classes
+		- elementE - sample code		- Codes for Bootstrap layout classes
+		- elementF - image			- relevant images of Bootstrap layout classes
+		- elementG - summary			- summary of Bootstrap layout classes
+		- elementH - interview questions	- knowledge check about Bootstrap layout classes
+	- ElementA - concept2 -  Alignment utilities
+		- elementB - Explanation of concept     - Alignment utilities
+		- elementC - Example of concept		- Alignment utilities
+		- elementD - Where it is used		- Applications of Alignment utilities
+		- elementE - sample code		- codes for Alignment utilities
+		- elementF - image			- relevant images of Alignment utilities
+		- elementG - summary			- summary of Alignment utilities
+		- elementH - interview questions	- knowledge check about Alignment utilities
+	- ElementA - concept3 	-  Centering elements
+		- elementB - Explanation of concept     - Centering elements
+		- elementC - Example of concept		- Centering elements
+		- elementD - Where it is used		- Applications of Centering elements
+		- elementE - sample code		- code for Centering elements
+		- elementF - image			- relevant images of Centering elements
+		- elementG - summary			- summary of Centering elements
+		- elementH - interview questions	- knowledge check about Centering elements
+         - ElementA - concept4 	- Spacing and margin classes
+		- elementB - Explanation of concept     - Spacing and margin classes
+		- elementC - Example of concept		- Spacing and margin classes
+		- elementD - Where it is used		- Applications of Spacing and margin classes
+		- elementE - sample code		- code for Spacing and margin classes
+		- elementF - image			- relevant images of Spacing and margin classes
+		- elementG - summary			- summary of Spacing and margin classes
+		- elementH - interview questions	- knowledge check about Spacing and margin classes
+
+Lesson9	-  Bootstrap Forms and Modals
+	- ElementA - concept1 	- Styling forms with Bootstrap
+		- elementB - Explanation of concept     - Styling forms with Bootstrap
+		- elementC - Example of concept		- Styling forms with Bootstrap
+		- elementD - Where it is used		- Applications of Styling forms with Bootstrap
+		- elementE - sample code		- codes for Styling forms with Bootstrap
+		- elementF - image			- relevant images of Styling forms with Bootstrap
+		- elementG - summary			- summary of Styling forms with Bootstrap
+		- elementH - interview questions	- knowledge check about Styling forms with Bootstrap
+	- ElementA - concept2 - Using Bootstrap modals
+		- elementB - Explanation of concept     - Using Bootstrap modals
+		- elementC - Example of concept		- Using Bootstrap modals
+		- elementD - Where it is used		- Applications of Using Bootstrap modals
+		- elementE - sample code		- codes for Using Bootstrap modals
+		- elementF - image			- relevant images of Using Bootstrap modals
+		- elementG - summary			- summary of Using Bootstrap modals
+		- elementH - interview questions	- knowledge check about Using Bootstrap modals
+	- ElementA - concept3 - Form validation and feedback
+		- elementB - Explanation of concept     - Form validation and feedback
+		- elementC - Example of concept		- Form validation and feedback
+		- elementD - Where it is used		- Applications of Form validation and feedback
+		- elementE - sample code		- codes for Form validation and feedback
+		- elementF - image			- relevant images of Form validation and feedback
+		- elementG - summary			- summary of Form validation and feedback
+		- elementH - interview questions	- knowledge check about Form validation and feedback
+         - ElementA - concept4 - Form customization
+		- elementB - Explanation of concept     - Form customization
+		- elementC - Example of concept		- Form customization
+		- elementD - Where it is used		- Applications of Form customization
+		- elementE - sample code		- codes for Form customization
+		- elementF - image			- relevant images of Form customization
+		- elementG - summary			- summary of Form customization
+		- elementH - interview questions	- knowledge check about Form customization
+Lesson10-   Final Project and Wrap-Up
+	- ElementA - concept1 	- Building a complete webpage with Bootstrap
+		- elementB - Explanation of concept     - Building a complete webpage with Bootstrap
+		- elementC - Example of concept		- Building a complete webpage with Bootstrap
+		- elementD - Where it is used		- Applications of Building a complete webpage with Bootstrap
+		- elementE - sample code		- codes for Building a complete webpage with Bootstrap
+		- elementF - image			- relevant images of Building a complete webpage with Bootstrap
+		- elementG - summary			- summary of Building a complete webpage with Bootstrap
+		- elementH - interview questions	- knowledge check about Building a complete webpage with Bootstrap
+	- ElementA - concept2 - Polishing styles and layout
+		- elementB - Explanation of concept     - Polishing styles and layout
+		- elementC - Example of concept		- Polishing styles and layout
+		- elementD - Where it is used		- Applications of Polishing styles and layout
+		- elementE - sample code		- codes for Polishing styles and layout
+		- elementF - image			- relevant images of Polishing styles and layout
+		- elementG - summary			- summary of Polishing styles and layout
+		- elementH - interview questions	- knowledge check about Polishing styles and layout
+	- ElementA - concept3 	- Final project presentation
+		- elementB - Explanation of concept     - Final project presentation
+		- elementC - Example of concept		- Final project presentation
+		- elementD - Where it is used		- Applications of Final project presentation
+		- elementE - sample code		- code for Final project presentation
+		- elementF - image			- relevant images of Final project presentation
+		- elementG - summary			- summary of Final project presentation
+		- elementH - interview questions	- knowledge check about Final project presentation
+	- ElementA - concept4 	- Further Bootstrap resources and tips
+		- elementB - Explanation of concept     - Further Bootstrap resources and tips
+		- elementC - Example of concept		- Further Bootstrap resources and tips
+		- elementD - Where it is used		- Applications of Further Bootstrap resources and tips
+		- elementE - sample code		- code for Further Bootstrap resources and tips
+		- elementF - image			- relevant images of Further Bootstrap resources and tips
+		- elementG - summary			- summary of Further Bootstrap resources and tips
+		- elementH - interview questions	- knowledge check about Further Bootstrap resources and tips
+
