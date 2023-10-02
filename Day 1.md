@@ -564,9 +564,8 @@ Day 1 equipped us with essential knowledge and skills to embark on our Bootstrap
      **Correct Answer:** c) Responsive Image 🚀
 
 20.  How does Bootstrap help in creating responsive web layouts? 📏
-    
-        -   a) By relying solely on media queries
-          -   b) By providing a pre-built grid system
+      -   a) By relying solely on media queries
+         -   b) By providing a pre-built grid system
           -   c) By using fixed-width containers
           -   d) By avoiding responsive design principles
     
@@ -575,45 +574,45 @@ Day 1 equipped us with essential knowledge and skills to embark on our Bootstrap
 21.  Which section of Bootstrap's documentation often contains real-world examples of how to use Bootstrap components effectively? 📖
     
         -   a) Components
-          -   b) FAQs
-          -   c) History
-          -   d) License
+        -   b) FAQs
+        -   c) History
+        -   d) License
     
       **Correct Answer:** a) Components 🚀
     
 22.  What is the primary purpose of Bootstrap's responsive classes? 🌐
     
         -   a) To make web pages load faster
-          -   b) To ensure that web pages look the same on all devices
-          -   c) To control the visibility of elements based on screen size
-          -   d) To provide advanced security features
+        -   b) To ensure that web pages look the same on all devices
+        -   c) To control the visibility of elements based on screen size
+        -   d) To provide advanced security features
     
      **Correct Answer:** c) To control the visibility of elements based on screen size 🌟
     
 23.  How can you set up Bootstrap in a project? 🛠️
     
         -   a) By downloading it from the official website
-          -   b) By using a Content Delivery Network (CDN)
-          -   c) Both a and b
-          -   d) Neither a nor b
+        -   b) By using a Content Delivery Network (CDN)
+        -   c) Both a and b
+        -   d) Neither a nor b
     
       **Correct Answer:** c) Both a and b 🚀
     
 24.  Bootstrap is known for its: 📦
     
         -   a) Server-side scripting capabilities
-          -   b) Back-end development features
-          -   c) Front-end framework for web development
-          -   d) Database management tools
+        -   b) Back-end development features
+        -   c) Front-end framework for web development
+        -   d) Database management tools
     
      **Correct Answer:** c) Front-end framework for web development 🌟
     
 25.  What advantage does Bootstrap's responsive design offer? 🌐
     
         -   a) It makes web pages load faster
-           -   b) It ensures that web pages look the same on all devices
-              -   c) It adapts web page layout to different screen sizes
-                -   d) It provides advanced security features
+        -   b) It ensures that web pages look the same on all devices
+        -   c) It adapts web page layout to different screen sizes
+        -   d) It provides advanced security features
     
      **Correct Answer:** c) It adapts web page layout to different screen sizes 🚀
 
