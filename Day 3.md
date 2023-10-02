@@ -1,4 +1,3 @@
-
 # Bootstrap Components 🎉
 
 ##  **Objectives:** 🎯
@@ -498,131 +497,131 @@ These practical applications illustrate how Bootstrap components can be used to 
 10.  Which Bootstrap class is used to create a panel with a title, content, and footer? 📦
     
 
--   a) .card
--   b) .panel
--   c) .container
--   d) .box
--   **Correct Answer: a) .card 📦**
+     -   a) .card
+     -   b) .panel
+     -   c) .container
+     -   d) .box
+     -   **Correct Answer: a) .card 📦**
 
 11.  What Bootstrap component is used to create a collapsible content area? 🌆
 
--   a) Tab
--   b) Accordion
--   c) Modal
--   d) Dropdown
--   **Correct Answer: b) Accordion 🌆**
+     -   a) Tab
+     -   b) Accordion
+     -   c) Modal
+     -   d) Dropdown
+     -   **Correct Answer: b) Accordion 🌆**
 
 12.  Which Bootstrap class is used to create a button group? 📑
 
--   a) .button-group
--   b) .btn-group
--   c) .group-btn
--   d) .btn-toolbar
--   **Correct Answer: b) .btn-group 📑**
+     -   a) .button-group
+     -   b) .btn-group
+     -   c) .group-btn
+     -   d) .btn-toolbar
+     -   **Correct Answer: b) .btn-group 📑**
 
 13.  What Bootstrap class is used to create a navigation bar with tabs? 📌
 
--   a) .navbar-tabs
--   b) .nav-tabs
--   c) .tab-bar
--   d) .nav-bar
--   **Correct Answer: b) .nav-tabs 📌**
+     -   a) .navbar-tabs
+     -   b) .nav-tabs
+     -   c) .tab-bar
+     -   d) .nav-bar
+     -   **Correct Answer: b) .nav-tabs 📌**
 
 14.  Which Bootstrap class is used to add a dropdown menu to a button? ⬇️
 
--   a) .btn-group
--   b) .menu-btn
--   c) .dropdown-button
--   d) .btn-dropdown
--   **Correct Answer: a) .btn-group ⬇️**
+     -   a) .btn-group
+     -   b) .menu-btn
+     -   c) .dropdown-button
+     -   d) .btn-dropdown
+     -   **Correct Answer: a) .btn-group ⬇️**
 
 15.  What is the purpose of Bootstrap's "form-group" class? 📝
 
--   a) It styles form elements.
--   b) It groups multiple forms together.
--   c) It defines form validation rules.
--   d) It creates a form container.
--   **Correct Answer: a) It styles form elements. 📝**
+     -   a) It styles form elements.
+     -   b) It groups multiple forms together.
+     -   c) It defines form validation rules.
+     -   d) It creates a form container.
+     -   **Correct Answer: a) It styles form elements. 📝**
 
 16.  Which Bootstrap class is used to create inline forms? 📄
 
--   a) .form-inline
--   b) .inline-form
--   c) .form-horizontal
--   d) .horizontal-form
--   **Correct Answer: a) .form-inline 📄**
+     -   a) .form-inline
+     -   b) .inline-form
+     -   c) .form-horizontal
+     -   d) .horizontal-form
+     -   **Correct Answer: a) .form-inline 📄**
 
 17.  In Bootstrap, how do you create a basic form input field with a label? 🔤
 
--   a) Use the .input-label class.
--   b) Use the .form-control-label class.
--   c) Add a <label> element before the <input> element.
--   d) Add the .input-group class to the <input> element.
--   **Correct Answer: c) Add a <label> element before the <input> element. 🔤**
+     -   a) Use the .input-label class.
+     -   b) Use the .form-control-label class.
+     -   c) Add a <label> element before the <input> element.
+     -   d) Add the .input-group class to the <input> element.
+     -   **Correct Answer: c) Add a <label> element before the <input> element. 🔤**
 
 18.  What Bootstrap class is used to create a responsive table? 📊
 
--   a) .table-responsive
--   b) .responsive-table
--   c) .table-flex
--   d) .flex-table
--   **Correct Answer: a) .table-responsive 📊**
+     -   a) .table-responsive
+     -   b) .responsive-table
+     -   c) .table-flex
+     -   d) .flex-table
+     -   **Correct Answer: a) .table-responsive 📊**
 
 19.  What is the purpose of the "form-check-input" class in Bootstrap? ✅
 
--   a) It styles form labels.
--   b) It styles form input elements.
--   c) It groups form elements.
--   d) It defines form validation rules.
--   **Correct Answer: b) It styles form input elements. ✅**
+     -   a) It styles form labels.
+     -   b) It styles form input elements.
+     -   c) It groups form elements.
+     -   d) It defines form validation rules.
+     -   **Correct Answer: b) It styles form input elements. ✅**
 
 20.  What is the Bootstrap class for creating a bordered box around a form element? 📦
 
--   a) .form-box
--   b) .input-box
--   c) .control-box
--   d) .form-group
--   **Correct Answer: d) .form-group 📦**
+     -   a) .form-box
+     -   b) .input-box
+     -   c) .control-box
+     -   d) .form-group
+     -   **Correct Answer: d) .form-group 📦**
 
 21.  How do you add validation feedback to a form element in Bootstrap? 🚦
 
--   a) Use the .form-validation class.
--   b) Add a <validation> element after the form element.
--   c) Use the .has-feedback class and add a feedback icon.
--   d) Apply the .form-control-error class.
--   **Correct Answer: c) Use the .has-feedback class and add a feedback icon. 🚦**
+     -   a) Use the .form-validation class.
+     -   b) Add a <validation> element after the form element.
+     -   c) Use the .has-feedback class and add a feedback icon.
+     -   d) Apply the .form-control-error class.
+     -   **Correct Answer: c) Use the .has-feedback class and add a feedback icon. 🚦**
 
 22.  In Bootstrap, what class is used to create a bordered box around a form input element? 📟
 
--   a) .box
--   b) .form-control
--   c) .input-box
--   d) .input-group
--   **Correct Answer: b) .form-control 📟**
+     -   a) .box
+     -   b) .form-control
+     -   c) .input-box
+     -   d) .input-group
+     -   **Correct Answer: b) .form-control 📟**
 
 23.  What is the purpose of Bootstrap's "navbar-nav" class? 📌
 
--   a) It styles navigation elements.
--   b) It creates a navigation bar.
--   c) It organizes navigation items.
--   d) It adds navigation validation.
--   **Correct Answer: c) It organizes navigation items. 📌**
+     -   a) It styles navigation elements.
+     -   b) It creates a navigation bar.
+     -   c) It organizes navigation items.
+     -   d) It adds navigation validation.
+     -   **Correct Answer: c) It organizes navigation items. 📌**
 
 24.  Which Bootstrap class is used to create a sticky navigation bar? 📏
 
--   a) .navbar-static
--   b) .sticky-nav
--   c) .navbar-fixed-top
--   d) .nav-sticky
--   **Correct Answer: c) .navbar-fixed-top 📏**
+     -   a) .navbar-static
+     -   b) .sticky-nav
+     -   c) .navbar-fixed-top
+     -   d) .nav-sticky
+     -   **Correct Answer: c) .navbar-fixed-top 📏**
 
 25.  What Bootstrap class is used to create a dropdown menu? ⤵️
 
--   a) .menu
--   b) .menu-dropdown
--   c) .dropdown
--   d) .menu-list
--   **Correct Answer: c) .dropdown ⤵️**
+     -   a) .menu
+     -   b) .menu-dropdown
+     -   c) .dropdown
+     -   d) .menu-list
+     -   **Correct Answer: c) .dropdown ⤵️**
 
 **Good luck with the quiz! 🌟**
 
